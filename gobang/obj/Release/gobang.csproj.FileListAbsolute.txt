@@ -1,0 +1,8 @@
+C:\Users\golia_lin\Documents\GitHub\CS_Exercise\gobang\gobang\bin\Release\gobang.exe
+C:\Users\golia_lin\Documents\GitHub\CS_Exercise\gobang\gobang\bin\Release\gobang.pdb
+C:\Users\golia_lin\Documents\GitHub\CS_Exercise\gobang\gobang\obj\Release\gobang.Form1.resources
+C:\Users\golia_lin\Documents\GitHub\CS_Exercise\gobang\gobang\obj\Release\gobang.Properties.Resources.resources
+C:\Users\golia_lin\Documents\GitHub\CS_Exercise\gobang\gobang\obj\Release\gobang.csproj.GenerateResource.Cache
+C:\Users\golia_lin\Documents\GitHub\CS_Exercise\gobang\gobang\obj\Release\gobang.exe
+C:\Users\golia_lin\Documents\GitHub\CS_Exercise\gobang\gobang\obj\Release\gobang.pdb
+C:\Users\golia_lin\Documents\GitHub\CS_Exercise\gobang\gobang\obj\Release\gobang.csprojResolveAssemblyReference.cache
